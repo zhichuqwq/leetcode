@@ -1,5 +1,5 @@
-两数之和.md linguist-language=Python
-两数相加.md linguist-language=Python
+linguist-filename=1、两数之和.md linguist-language=Python
+linguist-filename=2、两数相加.md linguist-language=Python
 *.js linguist-language=java
 *.css linguist-language=java
 *.html linguist-language=java
