@@ -72,11 +72,11 @@ leetcode算法题记录
 
 ### 二叉树
 
-| 题号 | 题目                                              | 解答  | 难度   |
-| :--: | ------------------------------------------------- | ----- | ------ |
-|  98  |                                                   |       |        |
-|  99  |                                                   |       |        |
-| 102  |                                                   |       |        |
-| 103  |                                                   |       |        |
-| ===  | ================================================= | ===== | ====== |
+| 题号 | 题目                                                         | 解答                                                         | 难度                                                         |
+| :--: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|  98  | [验证二叉搜索树](https://github.com/zhichuqwq/leetcode/tree/main/二叉树/098.验证二叉搜索树/question.md) | [java](https://github.com/zhichuqwq/leetcode/blob/main/二叉树/098.验证二叉搜索树/Solution.java) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
+|  99  | [恢复二叉搜索树](https://github.com/zhichuqwq/leetcode/tree/main/二叉树/099.恢复二叉搜索树/question.md) | [java](https://github.com/zhichuqwq/leetcode/blob/main/二叉树/099.恢复二叉搜索树/Solution.java) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
+| 102  | [二叉树的层序遍历](https://github.com/zhichuqwq/leetcode/tree/main/二叉树/102.二叉树的层序遍历/question.md) | [java](https://github.com/zhichuqwq/leetcode/blob/main/二叉树/102.二叉树的层序遍历/Solution.java) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
+| 103  | [二叉树的锯齿形层序遍历](https://github.com/zhichuqwq/leetcode/tree/main/二叉树/103.二叉树的锯齿形层序遍历/question.md) | [java](https://github.com/zhichuqwq/leetcode/blob/main/二叉树/103.二叉树的锯齿形层序遍历/Solution.java) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
+| ===  | =================================================            | =====                                                        | ======                                                       |
 
